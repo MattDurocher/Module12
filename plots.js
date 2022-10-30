@@ -92,7 +92,3 @@
 // };
 // Plotly.newPlot("bar-plot", data, layout);
 // console.log(cityGrowths);
-
-d3.json("samples.json").then(function(data){
-    console.log("hello");
-});
